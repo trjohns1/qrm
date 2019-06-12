@@ -1,0 +1,15 @@
+Development Environment Notes
+-----------------------------
+
+Native python 2.7 $python
+Python 3.6 $python3
+pip $python3 -m pip  |  pip3
+Home-brew
+Idle $idle  |  $idle3
+PyCharm CE
+Qt 5.12.3  /Users/Username/Qt.5.12.3
+Qt Creator
+pyqt
+Sqlite3
+DB Browser for SQLite
+
