@@ -13,3 +13,4 @@ pyqt
 Sqlite3
 DB Browser for SQLite
 Sublime editor
+Atom editor
